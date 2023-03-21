@@ -4,7 +4,7 @@
 *.dll
 *.so
 *.dylib
-
+*.fleet
 # Test binary, built with `go test -c`
 *.test
 
