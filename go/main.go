@@ -7,4 +7,8 @@ func main() {
 	prefixinit()
 	lengthsubstringinit()
 	twoNumbersinit()
+	palindromicsubstringinit()
+	zigzagconversioninit()
+	reverseinit()
+	minScoreinit()
 }
