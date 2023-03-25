@@ -11,4 +11,6 @@ func main() {
 	zigzagconversioninit()
 	reverseinit()
 	minScoreinit()
+	AtoiInit()
+	findMedianInit()
 }
