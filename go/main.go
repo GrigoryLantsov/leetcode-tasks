@@ -13,4 +13,8 @@ func main() {
 	minScoreinit()
 	AtoiInit()
 	findMedianInit()
+	isMatchInit()
+	maxAreaInit()
+	integerromanint()
+	englishformatinit()
 }
