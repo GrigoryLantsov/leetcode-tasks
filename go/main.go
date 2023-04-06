@@ -17,4 +17,9 @@ func main() {
 	maxAreaInit()
 	integerromanint()
 	englishformatinit()
+	threeSumInit()
+	closedIslandInit()
+	threeSumClosestInit()
+	fourSumInit()
+	lettercombinationinit()
 }
