@@ -22,4 +22,12 @@ func main() {
 	threeSumClosestInit()
 	fourSumInit()
 	lettercombinationinit()
+	removeNInit()
+	isValidInit()
+	mergeInit()
+	mergeSortedInit()
+	numEnclavesInit()
+	largestAltitudeInit()
+	generateParenthesisInit()
+	mergeKListsInit()
 }
